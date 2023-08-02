@@ -5,7 +5,7 @@
 // const [randomCar] = cars
 // const [, otherRandomCar] = cars
 // //Predict the output
-// // testla
+// // tesla
 // // mercedes
 // console.log(randomCar)
 // console.log(otherRandomCar)
@@ -20,8 +20,7 @@
 // }
 // const { name: otherName } = employee;
 // //Predict the output
-// //undefined
-// //Elon
+// //Error name is undfinded
 // console.log(name);
 // console.log(otherName);
 
